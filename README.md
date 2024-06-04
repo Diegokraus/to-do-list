@@ -2,8 +2,8 @@
 ![image](https://github.com/Diegokraus/to-do-list/assets/80995860/cff0b823-7e7c-4846-98ed-b566f81984ff)
 
 ## Techs: Angular, Tyespcript.
+https://todolist3211.netlify.app/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
 
 ## Development server
 
